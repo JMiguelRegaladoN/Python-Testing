@@ -1,3 +1,4 @@
+![Icon](https://github.com/JMiguelRegaladoN/Python-Testing/blob/main/Gemini_Generated_Image_cjefd1cjefd1cjef.png)
 # Python-Testing
 This python repository is for testing python just that.
 
