@@ -15,6 +15,6 @@ This python repository is for testing python just that.
 
 ## STEP 3
 
-- Print or display the serialized configuration so it can be reviewed and validated against expected values for the previous os.environ.
+- Print in console the output or display the serialized configuration so it can be reviewed and validated against expected values for the previous os.environ.
 
 
