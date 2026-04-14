@@ -11,10 +11,10 @@ This python repository is for testing python just that.
 
 ## STEP 2
 
-- Store the collected configuration data in a structured format (e.g., JSON) to allow easier inspection and sharing across debugging sessions.
+- Store the collected configuration data env in a structured format (e.g., JSON) to allow easier inspection and sharing across debugging sessions.
 
 ## STEP 3
 
-- Print in console the output or display the serialized configuration so it can be reviewed and validated against expected values for the previous os.environ.
+- Print in console the output or display the serialized configuration env so it can be reviewed and validated against expected values for the previous os.environ.
 
 
