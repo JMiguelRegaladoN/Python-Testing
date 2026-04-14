@@ -17,4 +17,4 @@ This python repository is for testing python just that.
 
 - Print in console the output or display the serialized configuration env so it can be reviewed and validated against expected values for the previous os.environ.
 
-
+- GOAL:Write a python script that dumps os.environ to a JSON filed called env.json with every key and value exactly as-is, then print file contents.
