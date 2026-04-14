@@ -4,7 +4,7 @@ This python repository is for testing python just that.
 
 # GUIDE TO TEST YOUR PYTHON ENVIRONMENT
 - if important to follow these steps:
-
+- os.environ - 
 ## STEP 1
 
 - Gather all environment-dependent configuration values currently available to the application. These values are critical for ensuring the system is properly initialized.
