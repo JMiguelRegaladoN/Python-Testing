@@ -11,10 +11,10 @@ This python repository is for testing python just that.
 
 ## STEP 2
 
-- Store the collected configuration data env in a structured format (e.g., JSON) to allow easier inspection and sharing across debugging sessions.
+- Store the collected configuration data full env in a structured format (e.g., JSON) to allow easier inspection and sharing across debugging sessions.
 
 ## STEP 3
 
-- Print in console the output or display the serialized configuration env so it can be reviewed and validated against expected values for the previous os.environ.
+- Print in console the output or display the serialized configuration full env so it can be reviewed and validated against expected values for the previous os.environ.
 
 - GOAL: python script that dumps os.environ to a JSON filed called env.json with every key and value exactly as-is, then print file contents.
