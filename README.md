@@ -1,5 +1,5 @@
 ![Icon](https://github.com/JMiguelRegaladoN/Python-Testing/blob/main/Gemini_Generated_Image_cjefd1cjefd1cjef.png)
-# Python-Testing
+# Python-Testing os.environ
 This python repository is for testing python just that.
 
 # GUIDE TO TEST YOUR PYTHON ENVIRONMENT
@@ -7,7 +7,7 @@ This python repository is for testing python just that.
 - os.environ - 
 ## STEP 1
 
-- Gather all environment-dependent configuration values currently available to the application. These values are critical for ensuring the system is properly initialized.
+- Gather all environment-dependent configuration values currently available to the application os.environ. These values are critical for ensuring the system is properly initialized.
 
 ## STEP 2
 
@@ -15,6 +15,6 @@ This python repository is for testing python just that.
 
 ## STEP 3
 
-- Print or display the serialized configuration so it can be reviewed and validated against expected values.
+- Print or display the serialized configuration so it can be reviewed and validated against expected values for the previous os.environ.
 
 
